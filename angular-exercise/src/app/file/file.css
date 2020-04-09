@@ -1,0 +1,11 @@
+:host {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.file {
+    flex: 0 1;
+    min-width: 700px;
+    padding-top: 20px;
+}

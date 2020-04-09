@@ -1,0 +1,8 @@
+:host {
+    display: block;
+    height: 50px;
+    background-color: lightgrey;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-left: 15px;
+}

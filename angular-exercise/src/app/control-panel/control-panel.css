@@ -1,0 +1,12 @@
+.format-panel {
+    background-color: #FFC107;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn {
+    margin-left: 10px;
+    width: 35px;
+}
